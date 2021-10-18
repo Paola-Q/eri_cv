@@ -1,0 +1,11 @@
+html {
+background: linear-gradient(blue, pink);
+      
+    }
+ a{
+     color: aliceblue;
+ }   
+ #active{
+     background: aqua;
+ }
+ 
